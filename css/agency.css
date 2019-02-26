@@ -156,7 +156,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: maroon;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -576,6 +576,12 @@ header.masthead .intro-text .intro-heading {
 }
 
 .team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
+.team-member h5 {
   margin-top: 25px;
   margin-bottom: 0;
   text-transform: none;
